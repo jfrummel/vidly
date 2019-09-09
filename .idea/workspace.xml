@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3269609b-80af-48e0-bf9d-f04f97d0f954" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hash.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/users.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/movies.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/movies.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/users.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/customers.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/customers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/genres.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/genres.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/movies.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/movies.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +27,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1QLIWlpd6Jewldwt5x3jW9XrqE4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -71,7 +72,7 @@
       <workItem from="1567729658033" duration="579000" />
       <workItem from="1567773594542" duration="4662000" />
       <workItem from="1567805803488" duration="830000" />
-      <workItem from="1568035409369" duration="1980000" />
+      <workItem from="1568035409369" duration="9512000" />
     </task>
     <servers />
   </component>
